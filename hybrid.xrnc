@@ -48,10 +48,10 @@
   <Pattern_Highlighted_Font_Unused>156,156,156</Pattern_Highlighted_Font_Unused>
   <Pattern_PlayPosition_Back>133,103,143</Pattern_PlayPosition_Back>
   <Pattern_PlayPosition_Font>194,179,199</Pattern_PlayPosition_Font>
-  <Pattern_CenterBar_Back>55,59,65</Pattern_CenterBar_Back>
-  <Pattern_CenterBar_Font>197,200,198</Pattern_CenterBar_Font>
-  <Pattern_CenterBar_Back_StandBy>55,59,65</Pattern_CenterBar_Back_StandBy>
-  <Pattern_CenterBar_Font_StandBy>197,200,198</Pattern_CenterBar_Font_StandBy>
+  <Pattern_CenterBar_Back>197,200,198</Pattern_CenterBar_Back>
+  <Pattern_CenterBar_Font>29,31,33</Pattern_CenterBar_Font>
+  <Pattern_CenterBar_Back_StandBy>197,200,198</Pattern_CenterBar_Back_StandBy>
+  <Pattern_CenterBar_Font_StandBy>29,31,33</Pattern_CenterBar_Font_StandBy>
   <Pattern_Selection>222,147,95</Pattern_Selection>
   <Pattern_StandBy_Selection>222,147,95</Pattern_StandBy_Selection>
   <Pattern_Mute_State>134,134,134</Pattern_Mute_State>
