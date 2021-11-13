@@ -14,8 +14,8 @@
   <Selected_Button_Font>114,76,49</Selected_Button_Font>
   <Selection_Back>222,147,95</Selection_Back>
   <Selection_Font>114,76,49</Selection_Font>
-  <StandBy_Selection_Back>32,34,38</StandBy_Selection_Back>
-  <StandBy_Selection_Font>197,200,198</StandBy_Selection_Font>
+  <StandBy_Selection_Back>197,200,198</StandBy_Selection_Back>
+  <StandBy_Selection_Font>29,31,33</StandBy_Selection_Font>
   <Midi_Mapping_Back>94,141,135</Midi_Mapping_Back>
   <Midi_Mapping_Font>138,190,183</Midi_Mapping_Font>
   <ToolTip_Back>178,148,187</ToolTip_Back>
