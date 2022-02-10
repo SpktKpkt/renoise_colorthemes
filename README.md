@@ -1,9 +1,11 @@
 # Renoise color themes
 
-## About
-
 Color themes for [Renoise](https://www.renoise.com/).
 
-## License
+### Usage
+
+Just drag and drop the *[name].xrnc* onto Renoise or import it (*Edit > Preferences... > Theme > Import*).
+
+### License
 
 CC0, Public Domain
